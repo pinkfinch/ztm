@@ -1,0 +1,18 @@
+current directory: /Users/sasipriyasakamuri/projects/ruby/ztm/.bundle /ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/Users/sasipriyasakamuri/.rvm/rubies/ruby-3.1.2/bin/ruby -I /Users/sasipriyasakamuri/.rvm/rubies/ruby-3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/sasipriyasakamuri/projects/ruby/ztm/.bundle /ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230304-17360-um5ykf sitelibdir\=./.gem.20230304-17360-um5ykf clean
+
+current directory: /Users/sasipriyasakamuri/projects/ruby/ztm/.bundle /ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230304-17360-um5ykf sitelibdir\=./.gem.20230304-17360-um5ykf
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/sasipriyasakamuri/projects/ruby/ztm/.bundle /ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230304-17360-um5ykf sitelibdir\=./.gem.20230304-17360-um5ykf install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20230304-17360-um5ykf
+
+current directory: /Users/sasipriyasakamuri/projects/ruby/ztm/.bundle /ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230304-17360-um5ykf sitelibdir\=./.gem.20230304-17360-um5ykf clean

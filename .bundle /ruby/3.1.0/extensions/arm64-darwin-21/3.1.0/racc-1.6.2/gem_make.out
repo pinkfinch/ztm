@@ -1,0 +1,20 @@
+current directory: /Users/sasipriyasakamuri/projects/ruby/ztm/.bundle /ruby/3.1.0/gems/racc-1.6.2/ext/racc/cparse
+/Users/sasipriyasakamuri/.rvm/rubies/ruby-3.1.2/bin/ruby -I /Users/sasipriyasakamuri/.rvm/rubies/ruby-3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/sasipriyasakamuri/projects/ruby/ztm/.bundle /ruby/3.1.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230304-17360-jmbj3j sitelibdir\=./.gem.20230304-17360-jmbj3j clean
+
+current directory: /Users/sasipriyasakamuri/projects/ruby/ztm/.bundle /ruby/3.1.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230304-17360-jmbj3j sitelibdir\=./.gem.20230304-17360-jmbj3j
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/sasipriyasakamuri/projects/ruby/ztm/.bundle /ruby/3.1.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230304-17360-jmbj3j sitelibdir\=./.gem.20230304-17360-jmbj3j install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20230304-17360-jmbj3j/racc
+
+current directory: /Users/sasipriyasakamuri/projects/ruby/ztm/.bundle /ruby/3.1.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230304-17360-jmbj3j sitelibdir\=./.gem.20230304-17360-jmbj3j clean
